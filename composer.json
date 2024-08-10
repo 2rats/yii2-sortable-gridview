@@ -3,6 +3,7 @@
     "description": "Sortable modification of standard Yii2 GridView widget",
     "keywords": ["yii2", "sortable", "gridview", "grid", "widget"],
     "type": "yii2-extension",
+    "minimum-stability": "dev",
     "license": "MIT",
     "support": {
         "source": "https://github.com/himiklab/yii2-sortable-grid-view-widget",
@@ -19,6 +20,6 @@
         "yiisoft/yii2-jui": "*"
     },
     "autoload": {
-        "psr-4": {"himiklab\\sortablegrid\\": ""}
+        "psr-4": {"rats\\sortablegrid\\": ""}
     }
 }

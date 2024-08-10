@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\sortablegrid;
+namespace rats\sortablegrid;
 
 use yii\base\Behavior;
 use yii\base\InvalidConfigException;

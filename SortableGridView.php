@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\sortablegrid;
+namespace rats\sortablegrid;
 
 use yii\helpers\Url;
 use yii\grid\GridView;
